@@ -5,3 +5,21 @@
 	padding: 0;
 	box-sizing: border-box;	
 }
+
+body {
+	background-color: #FFCCCC;
+}
+
+.container { 
+	margin: 0 auto;
+	width: 100%;
+	padding: 10%;
+}
+
+.content {
+	padding-left: 10%;
+	padding-right: 10%;
+}
+
+
+
