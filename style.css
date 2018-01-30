@@ -24,10 +24,12 @@ body {
 	display: flex;
 	align-self: center;
 	padding-top: 3%;
+	padding-left: 5%;
 }
 
 .body-text {
 	padding-left: 3%;
+	padding-right: 10%;
 }
 
 header {
@@ -42,6 +44,11 @@ ul {
 	justify-content: space-between;
 	padding-left:10%;
 	padding-right:10%;
+	list-style: none;
+	}
+
+a {
+	text-decoration: none;
 }
 
 p:hover {
@@ -52,3 +59,14 @@ h1:hover {
 	color: #FFFFFF;
 }
 
+a:hover {
+	color: #999999;
+}
+
+a:visited {
+	color: #FFFFFF;
+}
+
+a:link {
+	color: #FFFFFF;
+}
