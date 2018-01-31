@@ -21,13 +21,12 @@ body {
  }
 
 .content {
-	display: flex;
-	align-self: center;
 	padding-top: 3%;
 	padding-left: 5%;
 }
 
 .body-text {
+	font-size: 15pt;
 	background-color: #000000;
 	padding-left: 3%;
 	padding-right: 3%;
@@ -49,6 +48,7 @@ ul {
 	}
 
 h2 {
+	font-size: 60pt;
 	background-color: #000000;
 }
 
